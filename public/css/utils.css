@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&family=Lato:ital@1&display=swap');
+:root {
+    --font1: 'Baloo Bhaijaan 2', cursive;
+    --font2: 'Lato', sans-serif;
+}
+
+.font1 {
+    font-family: var(--font1);
+}
+
+.font2 {
+    font-family: var(--font2);
+}
+
+.max-width-1 {
+    max-width: 80vw;
+}
+
+.max-width-2 {
+    max-width: 70vw;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+
+/* .form-control {} */

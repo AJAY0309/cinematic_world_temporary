@@ -1,0 +1,12 @@
+navbar
+    -home
+    -blog
+        -this week releses
+        -upcoming releses
+        -ott releses
+    -yt videos
+        -latest videos
+    -reviews
+    -collections
+    -youtube webseries
+    
